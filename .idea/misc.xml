@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout-v23/activity_maths_tools_page.xml" value="0.1" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/activity_main.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/activity_maths_tools_page.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/activity_quadratic_equation.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/activity_temp_convertor.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/activity_trignometry.xml" value="0.23020833333333332" />
+        <entry key="..\:/Android_Devlopment/calculator_android_app/app/src/main/res/layout/splash_screen.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/AMIT/Desktop/Hactoberfest/calculator_android_app/app/src/main/res/layout/activity_linear_equation2variables.xml" value="0.2484375" />
+        <entry key="..\:/Users/AMIT/Desktop/Hactoberfest/calculator_android_app/app/src/main/res/layout/activity_log_calculation.xml" value="0.2484375" />
+        <entry key="..\:/Users/AMIT/Desktop/Hactoberfest/calculator_android_app/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
+        <entry key="..\:/Users/AMIT/Desktop/Hactoberfest/calculator_android_app/app/src/main/res/layout/activity_maths_tools_page.xml" value="0.2484375" />
+        <entry key="..\:/Users/AMIT/Desktop/Hactoberfest/calculator_android_app/app/src/main/res/layout/activity_trignometry.xml" value="0.2484375" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/calculator/app/src/main/res/layout/activity_main.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/calculator/app/src/main/res/layout/activity_splash_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/sriva/Desktop/Hactoberfest2022/calculator_android_app/app/src/main/res/drawable/button_onclick_design.xml" value="0.107" />
+        <entry key="..\:/Users/sriva/Desktop/Hactoberfest2022/calculator_android_app/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

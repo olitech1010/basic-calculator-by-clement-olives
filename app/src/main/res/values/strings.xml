@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ac">AC</string>
+    <string name="backspace">Backspace</string>
+    <string name="abcd">/</string>
+    <string name="_7">7</string>
+    <string name="acb">C</string>
+    <string name="backspaces">Backspace</string>
+    <string name="aa">(</string>
+    <string name="bb">)</string>
+    <string name="seven">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="division">/</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="x">x</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="subs">-</string>
+    <string name="dot">.</string>
+    <string name="_0">0</string>
+    <string name="equal">=</string>
+    <string name="add">+</string>
+    <string name="cofficent_of_a"><small>Coefficent \n of x^2</small></string>
+    <string name="abc">cofficent_of_a</string>
+    <string name="cofficent_of_b"><small>Coefficent \n of x</small></string>
+    <string name="submit">Submit</string>
+    <string name="cofficent_of_c"><small>Constant</small></string>
+    <string name="temperature">Temperature</string>
+    <string name="celsius">℃</string>
+    <string name="Fahrenheit">°F</string>
+    <string name="celsius_fahrenheit">Enter the Temperature and get temperature in celsius or fahrenheit</string>
+    <string name="quadratic_equation">Quadratic Equation</string>
+    <string name="log_calculation">Log Calculation</string>
+    <string name="linear_equation_2_variables">Linear Equation 2 variables</string>
+    <string name="trigonometry">Trigonometry</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="from_currency">From currency</string>
+    <string name="to_currency">To Currency</string>
+    <string-array name="currency">
+        <item>INR (Indian Rupee)</item>
+        <item>USD (United States Dollar)</item>
+        <item>CHF (Swiss Franc)</item>
+        <item>GBP (British Pound)</item>
+        <item>GIP (Gibraltar Pound)</item>
+        <item>KYD (Caymanian Dollar)</item>
+        <item>JOD (Jordanian Dinar)</item>
+        <item>KWD (Kuwaiti Dinar)</item>
+        <item>PKR (Pakistani Rupee)</item>
+        <item>CNY (Chinese Yuan)</item>
+        <item>BDT (Bangladeshi Taka)</item>
+        <item>NPR (Nepalese Rupee)</item>
+        <item>LKR (Sri Lankan rupee)</item>
+    </string-array>
+</resources>
